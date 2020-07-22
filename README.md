@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi, welcome to my profile!!
 My name is Kelvin Murilo, I'm fullstack developer.
  
