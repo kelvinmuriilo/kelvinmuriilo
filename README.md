@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Hi, welcome to my profile!!
+My name is Kelvin Murilo, I'm fullstack developer.
+ 
+- 🔭 I’m currently working on front-end develovpment using Angular.
+- 🌱 I’m currently learning Node.JS and UI Design.
+
 <!--
 **kelvinmuriilo/kelvinmuriilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
