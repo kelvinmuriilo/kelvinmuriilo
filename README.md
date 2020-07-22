@@ -1,7 +1,7 @@
 # Hi, welcome to my profile!!
 My name is Kelvin Murilo, I'm fullstack developer.
  
-- 🔭 I’m currently working on front-end develovpment using Angular.
+- 🔭 I’m currently working on front-end development using Angular.
 - 🌱 I’m currently learning Node.JS and UI Design.
 
 <!--
