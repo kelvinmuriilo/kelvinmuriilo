@@ -7,7 +7,7 @@ My name is Kelvin Murilo, I'm fullstack developer.
 ### 💬 Want to connect?
 [![Linkedin Badge](https://img.shields.io/badge/-Kelvin&nbsp;Murilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-murilo/)](https://www.linkedin.com/in/kelvin-murilo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinmurilo.dev@gmail.com)](mailto:kelvinmurilo.dev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@this.kelvin-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/this.kelvin/)](https://www.instagram.com/this.kelvin/)
+
 
 
 <!--
