@@ -4,7 +4,7 @@ My name is Kelvin Murilo, I'm fullstack developer.
 - 🔭 I’m currently working on front-end and back-end development, using Angular and Spring Boot.
 - 🌱 I’m currently learning Clean Architecture and UI Design.
 
-### 💬 Want to connect?
+### 💬 Do you want to connect?
 [![Linkedin Badge](https://img.shields.io/badge/-Kelvin&nbsp;Murilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-murilo/)](https://www.linkedin.com/in/kelvin-murilo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinmurilo.dev@gmail.com)](mailto:kelvinmurilo.dev@gmail.com)
 
